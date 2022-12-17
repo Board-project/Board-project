@@ -3,8 +3,11 @@
 ## TODO
 
 ### Client
-- [] App
-- [] Web
-
+- App
+  - [ ] v1
+- Web
+  - [ ] v1  
 ### Server
-- [] Server
+- Server
+  - [] v1
+ 
